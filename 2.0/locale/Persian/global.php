@@ -1,12 +1,15 @@
 ﻿<?php
 /*
-Persian Language Fileset
-Persian locale behrouz atashpeykar bonab
-Email : pciranian@gmail.com
-website ; www.pciranian.com
-Produced by Nick Jones (Digitanium)
-Email: digitanium@php-fusion.co.uk
-Web: http://www.php-fusion.co.uk
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
 */
 
 // Locale Settings

@@ -1,15 +1,16 @@
 <?php
-/*---------------------------------------------------+
-| buildlist.php - iLister enginge.
-+----------------------------------------------------+
-| Copyright (C) 2005 Johs Lind
-| http://www.geltzer.dk/
-| Inspired by: PHP-Fusion 6 coding
-+----------------------------------------------------+
-| Released under the terms & conditions of v2 of the
-| GNU General Public License. For details refer to
-| the included gpl.txt file or visit http://gnu.org
-+----------------------------------------------------*/
+/*
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
+*/
 if (!defined("IN_FUSION")) { die("Access Denied"); }
 
 $image_files = array();

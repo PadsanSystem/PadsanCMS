@@ -1,4 +1,16 @@
 ﻿<?php
+/*
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
+*/
 // Edit/Save/Delete User Group Messages
 $locale['400'] = "گروه کاربری ویرایش شد";
 $locale['401'] = "گروه کاربری افزوده شد";

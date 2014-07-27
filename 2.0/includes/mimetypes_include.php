@@ -1,29 +1,19 @@
 <?php
-/*-------------------------------------------------------+
-| PHP-Fusion Content Management System
-| Copyright (C) PHP-Fusion Inc
-| http://www.php-fusion.co.uk/
-+--------------------------------------------------------+
-| Filename: mimetypes_include.php
-| Author: Arda Kilicdagi (Arda, SoulSmasher)
-+--------------------------------------------------------+
-| This program is released as free software under the
-| Affero GPL license. You can redistribute it and/or
-| modify it under the terms of this license which you
-| can read by viewing the included agpl.txt or online
-| at www.gnu.org/licenses/agpl.html. Removal of this
-| copyright header is strictly prohibited without
-| written permission from the original author(s).
-+--------------------------------------------------------*/
+/*
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
+*/
 if (!defined("IN_FUSION")) { die("Access Denied"); }
 
 function mimeTypes() {
-	/*-------------------------------------------------------+
-	| Taken From CodeIgniter 3.0 Dev Branch, 2013.06.26
-	| https://github.com/EllisLab/CodeIgniter/blob/develop/application/config/mimes.php
-	| Licensed under the Academic Free License version 3.0
-	| http://opensource.org/licenses/AFL-3.0
-	+--------------------------------------------------------*/
 	return array(
 		'hqx'	=>	array('application/mac-binhex40', 'application/mac-binhex', 'application/x-binhex40', 'application/x-mac-binhex40'),
 		'cpt'	=>	'application/mac-compactpro',

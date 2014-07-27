@@ -1,8 +1,16 @@
 <?php
-/*.Universal Property Switcher for PHP-Fusion v7.*|
-|*.Author: Max "Matonor" Toball..................*|
-|*.Last Change: 03/20/07............Version: 1.3.*|
-|*.Released under the AGPLv3.....................*/
+/*
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
+*/
 
 class Switcher{
 	var $args;

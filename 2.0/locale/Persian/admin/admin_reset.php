@@ -1,4 +1,16 @@
 ﻿<?php
+/*
+|--------------------------------|
+|		PadsanSystem CMS		 |
+|--------------------------------|
+|		 General Version		 |
+|--------------------------------|
+|Web   : www.PadsanCMS.com		 |
+|Email : Support@PadsanCMS.com	 |
+|Tel   : +98 - 26 325 45 700	 |
+|Fax   : +98 - 26 325 45 701	 |
+|--------------------------------|
+*/
 // Infusion titles & description
 $locale['apw_title'] = "بازیابی گذرواژه مدیر";
 $locale['apw_desc'] = "تغیر گذرواژه ورود به سایت /گذرواژه مدیریت";
